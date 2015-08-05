@@ -11,7 +11,6 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 import java.util.Date;
-///hvs changes
 
 //test hcjashdkjh
 public class AddFriends extends Activity {
